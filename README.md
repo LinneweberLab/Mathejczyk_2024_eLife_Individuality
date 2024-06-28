@@ -1,4 +1,4 @@
-Repository for 3 behavioural assays currently in use by the Linneweber lab as described in the paper
+Repository for 3 behavioral assays currently in use by the Linneweber lab as described in the paper
 “Individuality across environmental context in Drosophila melanogaster (Mathejczyk et al., 2023)". 
 https://www.biorxiv.org/content/10.1101/2023.11.26.568741v1
 <br>
